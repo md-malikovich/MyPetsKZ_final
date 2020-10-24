@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_main"
+        android:icon="@drawable/ic_pets"
+        android:title="@string/bnv_main"/>
+
+    <item
+        android:id="@+id/navigation_second"
+        android:icon="@drawable/ic_news"
+        android:title="@string/bnv_news"/>
+
+    <item
+        android:id="@+id/navigation_third"
+        android:icon="@drawable/ic_article"
+        android:title="@string/bnv_articles"/>
+
+    <item
+        android:id="@+id/navigation_fourth"
+        android:icon="@drawable/ic_dog"
+        android:title="@string/bnv_breeds"/>
+</menu>

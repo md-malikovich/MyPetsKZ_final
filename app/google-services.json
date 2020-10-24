@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "656595123444",
+    "firebase_url": "https://mypetskz-73b72.firebaseio.com",
+    "project_id": "mypetskz-73b72",
+    "storage_bucket": "mypetskz-73b72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656595123444:android:cc78a3256d9ae9f60db2a1",
+        "android_client_info": {
+          "package_name": "com.e.mypetskz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656595123444-da88cj8ublgp8atubp6ni6uu43m3g86v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz_Od6yiOsHyRzYCbKSIJRMlg8UCB83BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656595123444-da88cj8ublgp8atubp6ni6uu43m3g86v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

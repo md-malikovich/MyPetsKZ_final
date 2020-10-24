@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyPetsKZ</string>
+    <string name="announcements">http://mypets.kz/announcements/</string>
+    <string name="cynologist_list">http://mypets.kz/cynologist-list/</string>
+    <string name="view_holder_title">Title</string>
+    <string name="fourthA_alertDialog">ПРОСМОТР ПОРОД СОБАК И КОШЕК</string>
+    <string name="bnv_main">Главная</string>
+    <string name="bnv_news">Новости</string>
+    <string name="bnv_articles">Статьи</string>
+    <string name="bnv_breeds">Породы</string>
+    <string name="internet_connection_error">Пожалуйста проверьте подключение к сети Интернет</string>
+</resources>

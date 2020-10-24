@@ -1,0 +1,35 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Current application theme. -->
+    <style name="NoActionBar" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/colorWhite</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:navigationBarColor">@color/colorWhite</item>
+        <item name="android:statusBarColor">@color/colorWhite</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!-- Current application theme. -->
+    <style name="AppTheme.Launcher" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@drawable/launch_screen</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:navigationBarColor">@color/colorWhite</item>
+        <item name="android:statusBarColor">@color/colorWhite</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!-- ProgressBar theme. -->
+    <style name="CircularProgress" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@android:color/holo_orange_light</item>
+    </style>
+
+</resources>
